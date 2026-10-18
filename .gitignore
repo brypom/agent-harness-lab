@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+/sessions/
+
+# Local demo state and reference material are not public project artifacts.
+/.demo_sessions/
+/.local_archive/
+/Agent-Harness-三组件讲解（完整学习版）.docx
